@@ -1,0 +1,439 @@
+sol_client.passthrough=%s
+sol_client.slider.percent=%s%%
+sol_client.slider.factor=%sx
+sol_client.slider.seconds=%ss
+
+sol_client.vertical_alignment.top=Baş
+sol_client.vertical_alignment.middle=Merkez
+sol_client.vertical_alignment.bottom=Alt
+
+sol_client.perspective.first_person=Birinci Şahıs
+sol_client.perspective.third_person_back=3. Şahıs Arkadan
+sol_client.perspective.third_person_front=3. Şahıs Önden
+
+sol_client.easing.linear=Doğrusal
+sol_client.easing.quad=Quad
+sol_client.easing.cubic=Cubic
+sol_client.easing.quart=Quart
+sol_client.easing.quint=Quint
+sol_client.easing.expo=Expo
+sol_client.easing.sine=Sine
+sol_client.easing.circ=Circ
+sol_client.easing.back=Back
+sol_client.easing.bounce=Bounce
+sol_client.easing.elastic=Elastic
+
+sol_client.file.edit=Dosyayı Düzenle...
+
+sol_client.servers=Sunucular
+
+sol_client.key.category=Sol Client
+sol_client.key.accept_request=İstekleri Kabul Et
+sol_client.key.dismiss_request=İstekleri Reddet
+
+sol_client.mod.generic.option.enabled=Aktif
+sol_client.mod.hud.option.scale=Ölçek
+sol_client.mod.simple_hud.option.background=Arkaplan
+sol_client.mod.simple_hud.option.backgroundColour=Arkaplan Rengi
+sol_client.mod.simple_hud.option.border=Kenarlık
+sol_client.mod.simple_hud.option.borderColour=Kenarlık Rengi
+sol_client.mod.simple_hud.option.textColour=Yazı Rengi
+sol_client.mod.simple_hud.option.shadow=Yazı Gölgesi
+sol_client.mod.smooth_counter_hud.option.smoothNumbers=Yumuşak Sayılar
+
+sol_client.mod.sol_client.name=Sol Client
+sol_client.mod.sol_client.description=Sol Client genel ayarlar.
+
+sol_client.mod.sol_client.option.fancyMainMenu=Ana menü
+sol_client.mod.sol_client.option.logoInInventory=Logoyu envanterde göster
+sol_client.mod.sol_client.mods=Modlar
+sol_client.mod.sol_client.option.modsKey=Mod anahtarları
+sol_client.mod.sol_client.edit_hud=HUD Düzenle
+sol_client.mod.sol_client.option.editHudKey=HUD Düzenleme Anahtarı
+sol_client.mod.sol_client.option.uiColour=UI Rengi
+sol_client.mod.sol_client.option.smoothUIColours=Yumuşak UI Renkleri
+sol_client.mod.sol_client.option.roundedUI=Yuvarlak UI
+sol_client.mod.sol_client.option.buttonClicks=Buton Tıklamaları
+sol_client.mod.sol_client.option.smoothScrolling=Yumuşak Kaydırma
+sol_client.mod.sol_client.option.fancyFont=HD Font
+
+sol_client.mod.fps.name=FPS
+sol_client.mod.fps.description=FPS'i göster (saniyedeki kare).
+
+sol_client.mod.coordinates.name=Kordinatlar
+sol_client.mod.coordinates.description=Kordinatları göster.
+
+sol_client.mod.coordinates.option.axisLabelColour=Eksen Etiket Rengi
+sol_client.mod.coordinates.option.axisValueColour=Eksen Değer Rengi
+sol_client.mod.coordinates.option.cardinalDirection=Kardinal Yön
+sol_client.mod.coordinates.option.cardinalDirectionColour=Kardinal Yön Rengi
+sol_client.mod.coordinates.option.axisDirection=Axis Yön
+sol_client.mod.coordinates.option.axisDirectionColour=Eksen Yön Rengi
+
+sol_client.mod.keystrokes.name=Tuş İşaretleri
+sol_client.mod.keystrokes.description=Tuş işaretlerini göster.
+
+sol_client.mod.keystrokes.option.movement=Hareket
+sol_client.mod.keystrokes.option.mouse=Fare
+sol_client.mod.keystrokes.option.mouseMovement=Fare Hareketi
+sol_client.mod.keystrokes.option.showSpace=Boşluk
+sol_client.mod.keystrokes.option.cps=Tuşlarda CPS
+sol_client.mod.keystrokes.option.backgroundColourPressed=Arkaplan Rengi (Basılı)
+sol_client.mod.keystrokes.option.borderColourPressed=Kenarlık Rengi (Basılı)
+sol_client.mod.keystrokes.option.textColourPressed=Yazı Rengi (Basılı)
+sol_client.mod.keystrokes.option.smoothColours=Yumuşak Renkler
+
+sol_client.mod.cps.name=CPS
+sol_client.mod.cps.description=CPS'i göster (saniye başına tıklama).
+
+sol_client.mod.cps.option.rmb=Sağ Tık CPS (RMB)
+sol_client.mod.cps.option.separatorColour=Ayırıcı Rengi
+
+sol_client.mod.ping.name=Ping
+sol_client.mod.ping.description=Ping'i göster.
+
+sol_client.mod.ping.option.source=Source
+sol_client.mod.ping.option.source.auto=Auto
+sol_client.mod.ping.option.source.multiplayer_screen=Multiplayer Screen
+sol_client.mod.ping.option.source.tab_list=Tab List
+
+sol_client.mod.speedometer.name=Hız Ölçer
+sol_client.mod.speedometer.description=Hız ölçerini göster.
+
+sol_client.mod.speedometer.option.graphMode=Grafik Modu
+
+sol_client.mod.reach_display.name=Uzaklık Gösterici
+sol_client.mod.reach_display.description=Uzaklık göstericiyi göster.
+
+sol_client.mod.combo_counter.name=Kombo Sayacı
+sol_client.mod.combo_counter.description=Kombo sayacını göster.
+
+sol_client.mod.combo_counter.no_hits=0 Kombo
+sol_client.mod.combo_counter.one_hit=1 vuruş
+sol_client.mod.combo_counter.n_hits=%s vuruş
+
+sol_client.mod.potion_effects.name=İksir Etkileri
+sol_client.mod.potion_effects.description=İksir etkilerini ve sürelerini göster.
+
+sol_client.mod.potion_effects.option.alignment=Hizalama
+sol_client.mod.potion_effects.option.icon=Simge
+sol_client.mod.potion_effects.option.background=Arkaplan
+sol_client.mod.potion_effects.option.title=Başlık
+sol_client.mod.potion_effects.option.titleColour=Başlık Rengi
+sol_client.mod.potion_effects.option.duration=Uzunluk
+sol_client.mod.potion_effects.option.durationColour=Uzunluk Rengi
+sol_client.mod.potion_effects.option.spacing=Boşluk
+
+sol_client.mod.armour.name=Zırh ve ekipman
+sol_client.mod.armour.description=Zırh ve ekipmanı dayanıklılığını göster.
+
+sol_client.mod.armour.option.durability=Dayanıklılık
+sol_client.mod.armour.option.durability.remaining=Kalan
+sol_client.mod.armour.option.durability.percentage=Yüzde
+sol_client.mod.armour.option.durability.fraction=Kesir
+
+sol_client.mod.armour.option.armour=Zırhı göster
+sol_client.mod.armour.option.hand=Ekipmanı göster
+
+sol_client.mod.timers.name=Zamanlayıcılar
+sol_client.mod.timers.description=Oyun içi zamanlayıcıları göster.
+
+sol_client.mod.timers.option.alignment=Hizalama
+sol_client.mod.timers.option.icon=Simge
+sol_client.mod.timers.option.nameColour=İsim Rengi
+sol_client.mod.timers.option.timeColour=Zaman Rengi
+
+sol_client.mod.chat.name=Sohbet
+sol_client.mod.chat.description=Oyuniçi sohbeti düzenle.
+
+sol_client.mod.chat.peek=Sohbete göz at
+sol_client.mod.chat.option.preventClose=Otomatik kapatmayı önle
+sol_client.mod.chat.option.smooth=Mesaj animasyonu
+sol_client.mod.chat.option.infiniteChat=Kesintisiz sohbet
+sol_client.mod.chat.option.peekKey=Göz atma tuşu
+
+sol_client.mod.chat.option.visibility=Görünürlük
+sol_client.mod.chat.option.visibility.shown=Her zaman göster
+sol_client.mod.chat.option.visibility.commands=Sadece komutlar için göster
+sol_client.mod.chat.option.visibility.hidden=Gizli
+
+sol_client.mod.chat.option.defaultTextColour=Varsayılan sohbet rengi
+sol_client.mod.chat.option.colours=Renkler
+sol_client.mod.chat.option.width=Genişlik
+sol_client.mod.chat.option.closedHeight=Kapalı yükseklik
+sol_client.mod.chat.option.openHeight=Açık yükseklik
+sol_client.mod.chat.option.links=Linkler
+sol_client.mod.chat.option.promptLinks=Linkleri açmak için sor
+sol_client.mod.chat.option.chatFilter=Sohbet filtresi
+sol_client.mod.chat.option.filteredWordsContent=Filtrelenmiş kelimeler
+
+sol_client.mod.tab_list.name=Tab Listesi
+sol_client.mod.tab_list.description=Tab listesini düzenle.
+
+sol_client.mod.tab_list.option.hideHeader=Üst bilgiyi gizle
+sol_client.mod.tab_list.option.hideFooter=Alt bilgiyi gizle
+
+sol_client.mod.tab_list.option.pingType=Ping
+sol_client.mod.tab_list.option.pingType.none=Gizli
+sol_client.mod.tab_list.option.pingType.icon=Simge
+sol_client.mod.tab_list.option.pingType.numeral=Sayı
+
+sol_client.mod.tab_list.option.backgroundColour=List Background Colour
+sol_client.mod.tab_list.option.entryBackgroundColour=Entry Background Colour
+sol_client.mod.tab_list.option.hidePlayerHeads=Hide Player Heads
+sol_client.mod.tab_list.option.textShadow=Text Shadow
+
+sol_client.mod.crosshair.name=Nişangah
+sol_client.mod.crosshair.description=Nişangahı düzenle.
+
+sol_client.mod.crosshair.option.style=Stil
+sol_client.mod.crosshair.option.style.default=Varsayılan
+sol_client.mod.crosshair.option.style.none=Gizli
+sol_client.mod.crosshair.option.style.dot=Nokta
+sol_client.mod.crosshair.option.style.plus=Artı
+sol_client.mod.crosshair.option.style.plus_dot=Artı ve nokta
+sol_client.mod.crosshair.option.style.square=Kare
+sol_client.mod.crosshair.option.style.square_dot=Kare ve nokta
+sol_client.mod.crosshair.option.style.circle=Daire
+sol_client.mod.crosshair.option.style.circle_dot=Daire ve nokta
+sol_client.mod.crosshair.option.style.four_angled=4 açılı
+sol_client.mod.crosshair.option.style.four_angled_dot=4 açılı nokta
+sol_client.mod.crosshair.option.style.triangle=Üçgen
+
+sol_client.mod.crosshair.option.thirdPerson=Üçüncü Şahısda göster
+sol_client.mod.crosshair.option.spectatorAlways=Seyirci modunda göster
+sol_client.mod.crosshair.option.debug=Hata ayıklama modunda göster
+sol_client.mod.crosshair.option.blending=Karıştırma
+sol_client.mod.crosshair.option.crosshairColour=Renk
+sol_client.mod.crosshair.option.highlightEntities=Varlıkları vurgula
+sol_client.mod.crosshair.option.entityColour=Varlık rengi
+
+sol_client.mod.scoreboard.name=Skor Tablosu
+sol_client.mod.scoreboard.description=Skor tablosunu düzenle.
+
+sol_client.mod.scoreboard.option.hide=Gizle
+sol_client.mod.scoreboard.option.backgroundColourTop=Arkaplan rengi (üst)
+sol_client.mod.scoreboard.option.numbers=Sayılar
+sol_client.mod.scoreboard.option.numbersColour=Sayı renkleri
+
+sol_client.mod.tweaks.name=Özellikler
+sol_client.mod.tweaks.description=Oyun içi özellikleri düzenle (fullbright gibi).
+
+sol_client.mod.tweaks.option.fullbright=Fullbright
+sol_client.mod.tweaks.option.showOwnTag=Kendi etiketini göster
+sol_client.mod.tweaks.option.arabicNumerals=Arabik rakamlar
+sol_client.mod.tweaks.option.betterTooltips=Daha iyi araç ipuçları
+sol_client.mod.tweaks.option.minimalViewBobbing=Minimal sarsılma
+sol_client.mod.tweaks.option.minimalDamageShake=Minimal hasar sarsılması
+sol_client.mod.tweaks.option.damageShakeIntensity=Hasar sarsılma şiddeti
+sol_client.mod.tweaks.option.confirmDisconnect=Oturumu kapatmak için onayla
+sol_client.mod.tweaks.option.borderlessFullscreen=Kenarlıksız tam ekran
+sol_client.mod.tweaks.option.betterKeyBindings=Daha iyi tuş bağlamaları
+sol_client.mod.tweaks.option.disableHotbarScrolling=Hotbar kaydırmasını devre dışı bırak
+
+sol_client.mod.tweaks.confirm_disconnect=Oturumu kapatmak istediğinden emin misin?
+
+sol_client.mod.freelook.name=Serbest Bakış
+sol_client.mod.freelook.description=Karakterin kafasından bağımsız şekilde kamerayı hareket ettir.
+
+sol_client.mod.freelook.key=Serbest Bakış Tuşu
+sol_client.mod.freelook.option.key=Tuş
+
+sol_client.mod.freelook.option.perspective=Perspektif
+sol_client.mod.freelook.option.invertPitch=Mouse Y eksenini ters çevir
+sol_client.mod.freelook.option.invertYaw=Mouse X eksenini ters çevir
+
+sol_client.mod.taplook.name=Taplook
+sol_client.mod.taplook.description=Butona basarak perspektifi değiştir.
+
+sol_client.mod.taplook.key=Taplook
+sol_client.mod.taplook.option.key=Tuş
+sol_client.mod.taplook.option.perspective=Perspektif
+
+sol_client.mod.toggle_sprint.name=Koşmayı etkinleştir
+sol_client.mod.toggle_sprint.description=Koşmayı etkinleştir.
+
+sol_client.mod.toggle_sprint.default_width=113
+
+sol_client.mod.toggle_sprint.option.hud=HUD
+
+sol_client.mod.toggle_sprint.held=Koşuluyor (Basılı)
+sol_client.mod.toggle_sprint.toggled=Koşuluyor (Etkinleştirildi)
+
+sol_client.mod.zoom.name=Zoom
+sol_client.mod.zoom.description=Butona basarak yakınlaştır.
+
+sol_client.mod.zoom.key=Zoom
+sol_client.mod.zoom.option.key=Tuş
+sol_client.mod.zoom.zoom_out=Uzaklaştır
+sol_client.mod.zoom.option.zoomOutKey=Uzaklaştırma tuşu
+sol_client.mod.zoom.zoom_in=Yakınlaştır
+sol_client.mod.zoom.option.zoomInKey=Yakınlaştırma tuşu
+sol_client.mod.zoom.option.cinematic=Sinematik kamera
+sol_client.mod.zoom.option.reduceSensitivity=Mouse hassasiyetini azalt
+sol_client.mod.zoom.option.scrolling=Yakınlaştırma miktarını kaydırarak ayarla
+sol_client.mod.zoom.option.smooth=Zoom animasyonu
+sol_client.mod.zoom.option.factor=Zoom miktarı
+
+sol_client.mod.replay.name=Replay
+sol_client.mod.replay.description=Oyununu kaydet ve tekrar oynat.
+
+sol_client.mod.replay.option.enableNotifications=Bildirimleri etkinleştir
+sol_client.mod.replay.option.recordSingleplayer=Tek oyunculu oyunları kaydet
+sol_client.mod.replay.option.recordServer=Sunucu oyunlarını kaydet
+sol_client.mod.replay.option.recordingIndicator=Kayıt göstergesi
+sol_client.mod.replay.option.recordingIndicatorColour=Kayıt göstergesi rengi
+sol_client.mod.replay.option.recordingIndicatorScale=Kayıt göstergesi boyutu
+sol_client.mod.replay.option.recordingIndicatorTextColour=Kayıt göstergesi yazı rengi
+sol_client.mod.replay.option.recordingIndicatorTextShadow=Kayıt göstergesi yazı gölgesi
+sol_client.mod.replay.option.automaticRecording=Otomatik Kayıt
+sol_client.mod.replay.option.renameDialog=Kayıt ismini değiştir
+sol_client.mod.replay.option.showChat=Sohbeti göster
+
+sol_client.mod.replay.option.camera=Kamera
+sol_client.mod.replay.option.camera.classic=Klasik
+sol_client.mod.replay.option.camera.vanilla_ish=Vanilla
+
+sol_client.mod.replay.option.showPathPreview=Yol önizlemesini göster
+
+sol_client.mod.replay.option.defaultInterpolator=Varsayılan interpolasyon
+sol_client.mod.replay.interpolator.catmull=Catmull-Rom
+sol_client.mod.replay.interpolator.cubic=Cubic
+sol_client.mod.replay.interpolator.linear=Linear
+
+sol_client.mod.replay.option.showServerIPs=Sunucu IP adreslerini göster
+
+sol_client.mod.quickplay.name=Hızlı oyna
+sol_client.mod.quickplay.description=Oyunlara hızlıca katıl.
+
+sol_client.mod.quickplay.key=Hızlı oyna
+sol_client.mod.quickplay.option.menuKey=Tuş
+
+sol_client.mod.hypixel_util.name=Hypixel Araçları
+sol_client.mod.hypixel_util.description=Hypixel için faydalı araçlar.
+
+sol_client.mod.hypixel_util.option.visitHousingCommand=/visithousing
+sol_client.mod.hypixel_util.option.lobbySoundsVolume=Lobi ses düzeyi
+sol_client.mod.hypixel_util.option.housingMusicVolume=Housing müzik düzeyi
+sol_client.mod.hypixel_util.option.popupEvents=Popup olayları
+sol_client.mod.hypixel_util.option.autogg=Otomatik GG
+sol_client.mod.hypixel_util.option.autoggMessage=GG Messajı
+sol_client.mod.hypixel_util.option.hidegg=GG'yi gizle
+sol_client.mod.hypixel_util.option.autogl=Otomatik GL
+sol_client.mod.hypixel_util.option.autoglMessage=GL Messajı
+sol_client.mod.hypixel_util.option.hidegl=GL'yi gizle
+sol_client.mod.hypixel_util.option.levelhead=Başta level
+
+sol_client.mod.tnt_timer.name=TNT Zamanlayıcısı
+sol_client.mod.tnt_timer.description=TNT Patlama zamanını göster.
+
+sol_client.mod.motion_blur.name=Hareket Bulaklığı
+sol_client.mod.motion_blur.description=Yumuşak hareket bulanıklığı.
+
+sol_client.mod.motion_blur.option.blur=Bulaklık
+
+sol_client.mod.menu_blur.name=Menu Bulanıklığı
+sol_client.mod.menu_blur.description=Menü arka planlarını bulanıklaştır.
+
+sol_client.mod.menu_blur.option.blur=Bulanıklık
+sol_client.mod.menu_blur.option.fadeTime=Geçiş süresi
+sol_client.mod.menu_blur.option.backgroundColour=Arka plan rengi
+
+sol_client.mod.colour_saturation.name=Renk Doygunluğu
+sol_client.mod.colour_saturation.description=Oyun içi renk doygunluğunu ayarla.
+
+sol_client.mod.colour_saturation.option.saturation=Doygunluk
+
+sol_client.mod.chunk_animator.name=Chunk Animasyonu
+sol_client.mod.chunk_animator.description=Dünyayı yüklerken animasyonlar ekler.
+
+sol_client.mod.chunk_animator.option.duration=Süre
+sol_client.mod.chunk_animator.option.animation=Animasyon
+
+sol_client.mod.1.7_visuals.name=1.7 Animasyonları
+sol_client.mod.1.7_visuals.description=Oyun içi animasyonları 1.7'e dönüştürür.
+
+sol_client.mod.1.7_visuals.option.useAndMine=Ekipman kullanırken kaz
+sol_client.mod.1.7_visuals.option.particles=Partiküller
+sol_client.mod.1.7_visuals.option.blocking=Kılıç Bloklama
+sol_client.mod.1.7_visuals.option.eatingAndDrinking=Yeme ve içme
+sol_client.mod.1.7_visuals.option.rod=Balık Oltası
+sol_client.mod.1.7_visuals.option.bow=Yay
+sol_client.mod.1.7_visuals.option.armourDamage=Zırhdaki hasar efekti
+sol_client.mod.1.7_visuals.option.sneaking=Yumuşak eğilme
+
+sol_client.mod.item_physics.name=Eşya Fizikleri
+sol_client.mod.item_physics.description=Eşyaları dünyaya atarken fiziksel olarak düşürür.
+
+sol_client.mod.item_physics.option.rotationSpeed=Döndürme hızı
+
+sol_client.mod.particles.name=Partiküller
+sol_client.mod.particles.description=Oyun içi partikülleri ayarlar.
+
+sol_client.mod.particles.option.multiplier=Kat sayı
+sol_client.mod.particles.option.sharpness=Her şeyi keskinleştir
+sol_client.mod.particles.option.snow=kar
+sol_client.mod.particles.option.slime=Slime lar
+sol_client.mod.particles.option.flames=Kıvılcımlar
+
+sol_client.mod.time_changer.name=Zaman Değiştirici
+sol_client.mod.time_changer.description=Oyun içi zamanı oynanışa etki etmeden değiştirir.
+
+sol_client.mod.time_changer.option.time=Zaman
+
+sol_client.mod.block_selection.name=Blok Seçimi
+sol_client.mod.block_selection.description=Seçilen bloğun etrafını çevreler.
+
+sol_client.mod.block_selection.option.outline=Ana hatlar
+sol_client.mod.block_selection.option.outlineWidth=Ana hat kalınlığı
+sol_client.mod.block_selection.option.outlineColour=Ana hat rengi
+sol_client.mod.block_selection.option.fill=Doldur
+sol_client.mod.block_selection.option.fillColour=Doldurma rengi
+sol_client.mod.block_selection.option.depth=Derinlik
+sol_client.mod.block_selection.option.persistent=Kalıcı
+
+sol_client.mod.hit_colour.name=Vuruş Rengi
+sol_client.mod.hit_colour.description=Vuruş Rengini Değiştir.
+
+sol_client.mod.hit_colour.option.colour=Renk
+
+sol_client.mod.hitbox.name=Hitbox
+sol_client.mod.hitbox.description=Varlık hitboxlarını düzenle ve görüntüle.
+
+sol_client.mod.hitbox.option.toggleHitboxes=Hitboxları aç/kapa
+sol_client.mod.hitbox.option.boundingBox=Bounding Box
+sol_client.mod.hitbox.option.boundingBoxColour=Bounding Box Rengi
+sol_client.mod.hitbox.option.eyeHeight=Göz Yüksekliği
+sol_client.mod.hitbox.option.eyeHeightColour=Göz Yüksekliği Rengi
+sol_client.mod.hitbox.option.lookVector=Bakış Vektörü
+sol_client.mod.hitbox.option.lookVectorColour=Bakış Vektörü Rengi
+sol_client.mod.hitbox.option.lineWidth=Çizgi Genişliği
+
+sol_client.mod.category.general.name=Genel
+sol_client.mod.category.hud.name=HUD
+sol_client.mod.category.utility.name=Araçlar
+sol_client.mod.category.visual.name=Görsel
+sol_client.mod.category.integration.name=Entegrasyon
+
+sol_client.mod.discord_integration.name=Discord Entegrasyonu
+sol_client.mod.discord_integration.description=Oyun içi etkinlikler için Discord entegrasyonu.
+
+sol_client.mod.discord_integration.option.voiceChatHud=Sesli sohbet HUD'ı
+sol_client.mod.discord_integration.option.voiceChatHudScale=Sesli sohbet HUD boyutu
+sol_client.mod.discord_integration.option.voiceChatHudAlignment=Sesli sohbet HUD hizalama
+sol_client.mod.discord_integration.option.usernameColour=Kullanıcı adı rengi
+sol_client.mod.discord_integration.option.mutedColour=Susturulmuş rengi
+sol_client.mod.discord_integration.option.speakingColour=Konuşan rengi
+
+sol_client.mod.screen.title=Modlar
+sol_client.mod.screen.search=Aramak için yaz
+sol_client.mod.screen.apply_to_all=Herşeye ayarla
+
+sol_client.hud.edit=Arayüzü Düzenle
+
+sol_client.packs.apply=Uygula
+sol_client.packs.open_folder=Pack Dosyası
+sol_client.packs.folder=Dosya (%d paket)
+
+sol_client.screenshot.view=Görüntüle
+sol_client.screenshot.open_folder=Dosyada göster
